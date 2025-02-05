@@ -30,8 +30,8 @@ Refactoring the AM Device Manager.
 
 ### old version
 
-![Registration1](https://github.com/iHealthDeviceLabs/iHealthDeviceLabs-Android/blob/master/public/AM_DeviceManager_old.png?raw=true)
+![Registration1](https://shiva-hack.github.io/iHealthDeviceLabs-Android/blob/master/public/AM_DeviceManager_old.png?raw=true)
 
 ### new version
 
-![Registration1](https://github.com/iHealthDeviceLabs/iHealthDeviceLabs-Android/blob/master/public/AM_DeviceManager_new.png?raw=true)
+![Registration1](https://shiva-hack.github.io/iHealthDeviceLabs-Android/blob/master/public/AM_DeviceManager_new.png?raw=true)

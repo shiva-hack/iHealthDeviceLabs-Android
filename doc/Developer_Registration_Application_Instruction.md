@@ -37,18 +37,18 @@ This Agreement is governed by California law, excluding California’s choice-of
 #### 2. Go to http://developer.ihealthlabs.com
 
 #### 3. Log in with your iHealth account
-![Registration1](https://github.com/iHealthDeviceLabs/iHealthDeviceLabs-Android/blob/master/public/registration1.png?raw=true)
+![Registration1](https://shiva-hack.github.io/iHealthDeviceLabs-Android/blob/master/public/registration1.png?raw=true)
 
 
 #### 4. Complete developer info
 go to MY APPLICATIONS -> ACCOUNT INTO
 
-![Registration2](https://github.com/iHealthDeviceLabs/iHealthDeviceLabs-Android/blob/master/public/registration2.png?raw=true)
+![Registration2](https://shiva-hack.github.io/iHealthDeviceLabs-Android/blob/master/public/registration2.png?raw=true)
 
 
 the page is shown below
 
-![Registration3](https://github.com/iHealthDeviceLabs/iHealthDeviceLabs-Android/blob/master/public/registration3.png?raw=true)
+![Registration3](https://shiva-hack.github.io/iHealthDeviceLabs-Android/blob/master/public/registration3.png?raw=true)
 
 complete personal info and save。
 
@@ -56,22 +56,22 @@ complete personal info and save。
 
 go to MY APPLICATIONS -> REGISTER APPLICATIONS
 
-![Registration4](https://github.com/iHealthDeviceLabs/iHealthDeviceLabs-Android/blob/master/public/registration4.png?raw=true)
+![Registration4](https://shiva-hack.github.io/iHealthDeviceLabs-Android/blob/master/public/registration4.png?raw=true)
 
 
 Open following page for input basic information of application
 
-![Registration5](https://github.com/iHealthDeviceLabs/iHealthDeviceLabs-Android/blob/master/public/registration5.png?raw=true)
+![Registration5](https://shiva-hack.github.io/iHealthDeviceLabs-Android/blob/master/public/registration5.png?raw=true)
 
 
 Integration Data
 
-![Registration6](https://github.com/iHealthDeviceLabs/iHealthDeviceLabs-Android/blob/master/public/registration6.png?raw=true)
+![Registration6](https://shiva-hack.github.io/iHealthDeviceLabs-Android/blob/master/public/registration6.png?raw=true)
 
 
 Please make sure your redirect domain is correct
 
-![Registration7](https://github.com/iHealthDeviceLabs/iHealthDeviceLabs-Android/blob/master/public/registration7.png?raw=true)
+![Registration7](https://shiva-hack.github.io/iHealthDeviceLabs-Android/blob/master/public/registration7.png?raw=true)
 
 Redirect Domain, supports sub-domains
 Callback URL, just for the record, not used during oauth
@@ -79,7 +79,7 @@ Callback URL, just for the record, not used during oauth
 
 Integration method
 
-![Registration8](https://github.com/iHealthDeviceLabs/iHealthDeviceLabs-Android/blob/master/public/registration8.png?raw=true)
+![Registration8](https://shiva-hack.github.io/iHealthDeviceLabs-Android/blob/master/public/registration8.png?raw=true)
 
 Select which method you would like to use:
 Pull model
@@ -88,19 +88,19 @@ iOSSDK，click on “IOS SDK” if applying for IOSSDK functions
 Android SDK
 Click for saving and finishing the registration process.
 
-![Registration9](https://github.com/iHealthDeviceLabs/iHealthDeviceLabs-Android/blob/master/public/registration9.png?raw=true)
+![Registration9](https://shiva-hack.github.io/iHealthDeviceLabs-Android/blob/master/public/registration9.png?raw=true)
 
 
 #### 6.Application list
 
 go to MY APPLICATIONS -> MY APPLICATIONS
 
-![Registration10](https://github.com/iHealthDeviceLabs/iHealthDeviceLabs-Android/blob/master/public/registration10.png?raw=true)
+![Registration10](https://shiva-hack.github.io/iHealthDeviceLabs-Android/blob/master/public/registration10.png?raw=true)
 
 
 The page is shown below:
 
-![Registration11](https://github.com/iHealthDeviceLabs/iHealthDeviceLabs-Android/blob/master/public/registration11.png?raw=true)
+![Registration11](https://shiva-hack.github.io/iHealthDeviceLabs-Android/blob/master/public/registration11.png?raw=true)
 
 Active means authorized
 Not Audit means unauthorized

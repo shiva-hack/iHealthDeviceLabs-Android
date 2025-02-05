@@ -47,14 +47,14 @@ Specific configuration as shown below:
 
 > Neet to add ACCESS_COARSE_LOCATION premisson in Android 6.0。
 
-![box-model](https://github.com/iHealthDeviceLabs/iHealthDeviceLabs-Android/blob/master/public/user_permission.png?raw=true)
+![box-model](https://shiva-hack.github.io/iHealthDeviceLabs-Android/blob/master/public/user_permission.png?raw=true)
 
 
-![box-model](https://github.com/iHealthDeviceLabs/iHealthDeviceLabs-Android/blob/master/public/ihealth_device_doc.png?raw=true)
+![box-model](https://shiva-hack.github.io/iHealthDeviceLabs-Android/blob/master/public/ihealth_device_doc.png?raw=true)
 
 ### How to apply for SDK permissions
 
-[Click this link](https://github.com/iHealthDeviceLabs/iHealthDeviceLabs-Android/blob/master/doc/Developer_Registration_Application_Instruction.md)
+[Click this link](https://shiva-hack.github.io/iHealthDeviceLabs-Android/blob/master/doc/Developer_Registration_Application_Instruction.md)
 
 ### How to use the iHealth SDK
 
@@ -217,16 +217,16 @@ Po3Control po3Control = iHealthDevicesManager.getInstance().getPo3Control(mac);
 
 ## API Guide
 
-[Click this link](https://github.com/iHealthDeviceLabs/iHealthDeviceLabs-Android/tree/master/api-docs)
+[Click this link](https://shiva-hack.github.io/iHealthDeviceLabs-Android/tree/master/api-docs)
 
 ## Examples
 
-[Click this link](https://github.com/iHealthDeviceLabs/iHealthDeviceLabs-Android/tree/master/examples)
+[Click this link](https://shiva-hack.github.io/iHealthDeviceLabs-Android/tree/master/examples)
 
 ## Release Note
 
-[Click this link](https://github.com/iHealthDeviceLabs/iHealthDeviceLabs-Android/blob/master/doc/ReleaseNote.md)
+[Click this link](https://shiva-hack.github.io/iHealthDeviceLabs-Android/blob/master/doc/ReleaseNote.md)
 
 ## FAQ
 
-[Click this link](https://github.com/iHealthDeviceLabs/iHealthDeviceLabs-Android/blob/master/doc/FAQ.md)
+[Click this link](https://shiva-hack.github.io/iHealthDeviceLabs-Android/blob/master/doc/FAQ.md)
