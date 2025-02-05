@@ -10,8 +10,8 @@ Refactoring the iHealth Device Manager.
 
 ### old version
 
-![Registration1](https://shiva-hack.github.io/iHealthDeviceLabs-Android/blob/master/public/DeviceManager.png?raw=true)
+![Registration1](./../public/DeviceManager.png?raw=true)
 
 ### New feature in new version
 
-![Registration1](https://shiva-hack.github.io/iHealthDeviceLabs-Android/blob/master/public/iHealthDevicesManager.png?raw=true)
+![Registration1](./../public/iHealthDevicesManager.png?raw=true)

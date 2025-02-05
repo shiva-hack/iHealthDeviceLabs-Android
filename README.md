@@ -47,10 +47,10 @@ Specific configuration as shown below:
 
 > Neet to add ACCESS_COARSE_LOCATION premisson in Android 6.0。
 
-![box-model](https://shiva-hack.github.io/iHealthDeviceLabs-Android/blob/master/public/user_permission.png?raw=true)
+![box-model](./public/user_permission.png?raw=true)
 
 
-![box-model](https://shiva-hack.github.io/iHealthDeviceLabs-Android/blob/master/public/ihealth_device_doc.png?raw=true)
+![box-model](./public/ihealth_device_doc.png)
 
 ### How to apply for SDK permissions
 
